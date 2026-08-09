@@ -1,1 +1,1 @@
-# Active-Directory-Project-for-SOC-Analyst-with-Splunk-
+# Active Directory Project for SOC Analyst with Splunk 
